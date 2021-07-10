@@ -1,0 +1,56 @@
+
+.btn-primary{
+    background: red;
+    border: 0;
+    padding: 5px 10px 5px 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.btn-primary:hover{
+    background: #FF9900;
+    border: 0;
+}
+.ajaib h1{
+   font-family: 'Bebas Neue';
+   font-weight: 800;
+}
+.ajaib p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 0;
+}
+.ajaib table{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 0;
+}
+.ajaib h3 {
+    font-family: 'Bebas Neue';
+    font-weight: 600;
+ }
+ .ajaib h5 {
+    font-family: 'Bebas Neue';
+    font-weight: 0;
+ }
+ .navbar{
+     background: lightslategray;
+ }
+ .navbar a{
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 40px;
+ }
+ .btn-outline-success{
+    background: rgb(24, 52, 207);
+    color: rgb(255, 255, 255);
+    border: 1px;
+}
+ .btn-outline-success:hover{
+     background: maroon;
+     border: none;
+ }
+ .form-control{
+     background: orange;
+     border:1px;
+ }
+ .navbar-brand{
+  
+     
+ }
