@@ -1,56 +1,37 @@
-
-.btn-primary{
-    background: red;
-    border: 0;
-    padding: 5px 10px 5px 10px;
-    font-size: 15px;
-    font-weight: bold;
-}
-.btn-primary:hover{
-    background: #FF9900;
-    border: 0;
-}
-.ajaib h1{
-   font-family: 'Bebas Neue';
-   font-weight: 800;
-}
-.ajaib p{
+body{
+   
     font-family: Arial, Helvetica, sans-serif;
-    font-weight: 0;
+   background-image: url(image/pantai.jpg);
 }
-.ajaib table{
-    font-family: Arial, Helvetica, sans-serif;
-    font-weight: 0;
+.tabel{
+    background-image: url(image/pemandagan.jpg);
+    width: 40%;
+    margin: auto;
+    margin-top: 15%;
+    border-radius: 7px;
+    color: azure;
 }
-.ajaib h3 {
-    font-family: 'Bebas Neue';
-    font-weight: 600;
- }
- .ajaib h5 {
-    font-family: 'Bebas Neue';
-    font-weight: 0;
- }
- .navbar{
-     background: lightslategray;
- }
- .navbar a{
-     font-family: Georgia, 'Times New Roman', Times, serif;
-     font-size: 40px;
- }
- .btn-outline-success{
-    background: rgb(24, 52, 207);
-    color: rgb(255, 255, 255);
-    border: 1px;
+.container{
+padding: 10px;
 }
- .btn-outline-success:hover{
-     background: maroon;
-     border: none;
- }
- .form-control{
-     background: orange;
-     border:1px;
- }
- .navbar-brand{
-  
-     
- }
+h1{
+    text-align: center;
+}
+table{
+    margin: auto;
+}
+table td{
+    padding: 5px;
+}
+button{
+    width: 60px;
+    height: 30px;
+    background-color: blueviolet;
+    border-radius: 5px;
+    border: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: cornsilk;
+}
+button:hover{
+    background: rgb(187, 117, 214);
+}
